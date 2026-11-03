@@ -124,7 +124,7 @@ Foram informadas três temperaturas consecutivas acima desse valor.
 
 **Resultado:** o contador chegou a três leituras consecutivas acima do limite. O programa exibiu o alerta, apresentou o relatório final e encerrou automaticamente.
 
-## 📸 6. Evidências
+## 6. Evidências
 
 As evidências dos testes realizados estão disponíveis na pasta `evidencias` do repositório:
 
